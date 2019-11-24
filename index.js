@@ -7,8 +7,8 @@ module.exports = {
     'plugin:promise/recommended',
     'plugin:jest/recommended',
     // React
-    'plugin:react/recommended',
     'react-app',
+    'plugin:react/recommended',
     // Typescript
     // Trigger release
     'plugin:@typescript-eslint/eslint-recommended',
