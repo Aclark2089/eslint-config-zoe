@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-zoe",
+  "version": "1.33.0",
+  "description": "🌀 ESLint shareable config for Zoe.",
+  "author": "https://github.com/jorgegonzalez",
+  "license": "MIT",
+  "homepage": "https://github.com/jorgegonzalez/zoe",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgegonzalez/zoe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jorgegonzalez/zoe/issues"
+  },
+  "keywords": [
+    "zoe",
+    "code linter",
+    "code style",
+    "eslint",
+    "formatter",
+    "linter",
+    "prettier",
+    "react",
+    "style",
+    "typescript"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "*.js"
+  ]
+}
