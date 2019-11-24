@@ -28,7 +28,9 @@
     "node": ">=8"
   },
   "files": [
-    "*.js"
+    "index.js",
+    "README.md",
+    "LICENSE"
   ],
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
