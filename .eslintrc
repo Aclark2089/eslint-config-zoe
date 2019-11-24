@@ -1,0 +1,7 @@
+{
+  "extends": ".",
+  "rules": {
+    "strict": "off",
+    "no-var": "off"
+  }
+}
