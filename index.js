@@ -8,6 +8,7 @@ module.exports = {
     'plugin:react/recommended',
     'react-app',
     // Typescript
+    // Trigger release
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
     // Prettier
