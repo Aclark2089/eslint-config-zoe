@@ -4,13 +4,13 @@
   "description": "🌀 ESLint shareable config for Zoe.",
   "author": "https://github.com/jorgegonzalez",
   "license": "MIT",
-  "homepage": "https://github.com/jorgegonzalez/zoe",
+  "homepage": "https://github.com/jorgegonzalez/eslint-config-zoe",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jorgegonzalez/zoe.git"
+    "url": "git+https://github.com/jorgegonzalez/eslint-config-zoe.git"
   },
   "bugs": {
-    "url": "https://github.com/jorgegonzalez/zoe/issues"
+    "url": "https://github.com/jorgegonzalez/eslint-config-zoe/issues"
   },
   "keywords": [
     "zoe",
