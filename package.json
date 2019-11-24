@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zoe",
-  "version": "1.33.0",
+  "version": "1.35.0",
   "description": "🌀 ESLint shareable config for Zoe.",
   "author": "https://github.com/jorgegonzalez",
   "license": "MIT",
