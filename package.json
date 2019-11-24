@@ -29,5 +29,41 @@
   },
   "files": [
     "*.js"
-  ]
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/git": "^7.0.18",
+    "commitizen": "^4.0.3",
+    "cross-env": "^6.0.3",
+    "cz-conventional-changelog": "3.0.2",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.4.3",
+    "prettier": "^1.19.1",
+    "semantic-release": "^15.13.31",
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "format": "prettier --write \"*{.js,.md,.json}\"",
+    "release": "semantic-release"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "lint-staged": {
+    "{.js,.md,.json}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
