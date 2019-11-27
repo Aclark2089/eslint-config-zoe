@@ -1,3 +1,10 @@
+## [1.37.1](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.0...v1.37.1) (2019-11-27)
+
+
+### Bug Fixes
+
+* turn off rule and add new config ([7373194](https://github.com/jorgegonzalez/eslint-config-zoe/commit/7373194193ae342a6cf88e16607a061c49b2bdf3))
+
 # [1.37.0](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.36.0...v1.37.0) (2019-11-27)
 
 
