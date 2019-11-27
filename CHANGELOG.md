@@ -1,3 +1,10 @@
+## [1.37.2](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.1...v1.37.2) (2019-11-27)
+
+
+### Bug Fixes
+
+* turn off import rules ([0590c74](https://github.com/jorgegonzalez/eslint-config-zoe/commit/0590c74e8f7ce5e1b9b9e7dec5d4d6801636c8ac))
+
 ## [1.37.1](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.0...v1.37.1) (2019-11-27)
 
 
