@@ -1,3 +1,10 @@
+# [1.37.0](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.36.0...v1.37.0) (2019-11-27)
+
+
+### Features
+
+* add more rules ([87309e8](https://github.com/jorgegonzalez/eslint-config-zoe/commit/87309e8adcd0b0b491123b57dbc1537d0f1711f9))
+
 # [1.36.0](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.35.0...v1.36.0) (2019-11-27)
 
 
