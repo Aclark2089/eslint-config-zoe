@@ -1,3 +1,11 @@
+# [1.36.0](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.35.0...v1.36.0) (2019-11-27)
+
+
+### Features
+
+* turn off react/prop-types ([1f593bd](https://github.com/jorgegonzalez/eslint-config-zoe/commit/1f593bdcd9ae2a815ca5db25a889e156fe8c0758))
+* update react plugin load order ([fa78753](https://github.com/jorgegonzalez/eslint-config-zoe/commit/fa787533fba06da4f79cc83c20b94be7edd63edb))
+
 # [1.35.0](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.34.0...v1.35.0) (2019-11-24)
 
 
