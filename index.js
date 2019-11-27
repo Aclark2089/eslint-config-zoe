@@ -41,7 +41,7 @@ module.exports = {
     'prefer-destructuring': 'warn',
     'prefer-object-spread': 'warn',
     // import
-    'import/no-unresolved': 'error',
+    // 'import/no-unresolved': 'error',
     // prettier
     'prettier/prettier': 'warn',
     // no-use-extend-native
