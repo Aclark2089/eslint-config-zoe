@@ -9,6 +9,7 @@ module.exports = {
     // import
     'plugin:import/errors',
     'plugin:import/warnings',
+    'plugin:import/typescript',
     // React
     'react-app',
     'plugin:react/recommended',
@@ -30,8 +31,6 @@ module.exports = {
     // React
     'react',
     'react-hooks',
-    // Typescript
-    '@typescript-eslint',
     // Prettier
     'prettier'
   ],
