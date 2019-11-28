@@ -1,3 +1,10 @@
+## [1.37.4](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.3...v1.37.4) (2019-11-28)
+
+
+### Bug Fixes
+
+* remove typescript from plugins list ([9251564](https://github.com/jorgegonzalez/eslint-config-zoe/commit/92515642efa55216e2be6692a76fc5bbd186a938))
+
 ## [1.37.3](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.2...v1.37.3) (2019-11-28)
 
 
