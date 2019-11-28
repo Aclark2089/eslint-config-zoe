@@ -1,3 +1,10 @@
+## [1.37.3](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.2...v1.37.3) (2019-11-28)
+
+
+### Bug Fixes
+
+* issue where typescript was a required dependency ([1f6ada1](https://github.com/jorgegonzalez/eslint-config-zoe/commit/1f6ada131db6f4e6c8f01e434b6e1d3ad38f9fe3))
+
 ## [1.37.2](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.1...v1.37.2) (2019-11-27)
 
 
