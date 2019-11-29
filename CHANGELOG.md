@@ -1,3 +1,10 @@
+## [1.37.5](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.4...v1.37.5) (2019-11-29)
+
+
+### Bug Fixes
+
+* issue with typescript eslint plugin ([7485e40](https://github.com/jorgegonzalez/eslint-config-zoe/commit/7485e40296972297c47d479c4992e4f2571a4070))
+
 ## [1.37.4](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.3...v1.37.4) (2019-11-28)
 
 
