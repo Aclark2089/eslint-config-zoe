@@ -48,6 +48,7 @@ module.exports = {
     'plugin:import/typescript',
     'react-app',
     'plugin:react/recommended',
+    'plugin:react-native/all',
     'prettier',
     'prettier/react',
     'prettier/unicorn'
