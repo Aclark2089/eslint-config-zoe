@@ -1,3 +1,10 @@
+# [1.38.0](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.5...v1.38.0) (2019-11-30)
+
+
+### Features
+
+* add eslint-pugin-react-native ([01f2d9b](https://github.com/jorgegonzalez/eslint-config-zoe/commit/01f2d9bcdbbe7934dbad432bafa1896880112411))
+
 ## [1.37.5](https://github.com/jorgegonzalez/eslint-config-zoe/compare/v1.37.4...v1.37.5) (2019-11-29)
 
 
